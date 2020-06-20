@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Donation page (in this case for gifts, tithes and donations for a church), Unform (RocketSeat) and React JS were used
+
 
 ## Available Scripts
 
